@@ -52,3 +52,4 @@ You can find a visualizer with the status of all Messari subgraphs at [subgraphs
 You can see our subgraphs supporting the data for our product ["Protocol Metrics"](https://messari.io/protocol-explorer/all-protocols)
 
 > _Quick note_: the raw deployment status of all subgraphs lives in [`./deployment/deployment.json`](./deployment/deployment.json)
+
